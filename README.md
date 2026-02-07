@@ -1,4 +1,4 @@
-# 🛡️ Smart Urban Risk Prediction System (Hybrid AI)
+#  Smart Urban Risk Prediction System (Hybrid AI)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -7,7 +7,7 @@
 
 An advanced traffic safety system that predicts the **Severity Risk** of accidents based on live environmental conditions. This project shifts traffic management from **Reactive** (reporting crashes) to **Proactive** (preventing them).
 
-## 🧠 Project Overview
+##  Project Overview
 Traffic accidents are dynamic; a safe road can become deadly within minutes due to rain or darkness. This system uses a **Hybrid Artificial Intelligence** model to analyze real-time data and warn authorities of high-risk zones *before* accidents occur.
 
 ### **The Hybrid Architecture**
@@ -16,19 +16,19 @@ We use an **Ensemble Approach** to ensure maximum accuracy:
 2.  **Deep Learning (TensorFlow/Keras):** Captures complex, non-linear patterns with 30% weight.
 3.  **Calibration Layer:** A realism filter that adjusts predictions to match real-world accident probability.
 
-## 🚀 Key Features
+##  Key Features
 * **Real-Time Risk Analysis:** Instant prediction based on live inputs (Weather, Time, Lighting).
 * **Proactive Alerts:** Visual "High Risk" warnings (Red Alert) for dangerous conditions.
 * **Hybrid Voting System:** Combines two AI models for robust decision-making.
 * **Interactive Dashboard:** Built with Streamlit for easy use by traffic police or city planners.
 
-## 📸 Screenshots
+##  Screenshots
 
 | Safe Scenario (Sunny/Noon) | High Risk Scenario (Rain/Night) |
 |:--------------------------:|:-----------------------------:|
 | *[Upload your Green Bar screenshot here]* | *[Upload your Red Bar screenshot here]* |
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1.  **Clone the repository:**
     ```bash
@@ -46,7 +46,7 @@ We use an **Ensemble Approach** to ensure maximum accuracy:
     python -m streamlit run app.py
     ```
 
-## 📂 Tech Stack
+##  Tech Stack
 * **Frontend:** Streamlit
 * **Machine Learning:** XGBoost, Scikit-Learn
 * **Deep Learning:** TensorFlow (Keras)
