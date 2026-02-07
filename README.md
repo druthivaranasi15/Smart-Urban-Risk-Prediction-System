@@ -56,4 +56,3 @@ We use an **Ensemble Approach** to ensure maximum accuracy:
 * **Druthi Varanasi** - Lead Developer
 
 ---
-*Created for [Your College/Course Name] Final Project.* (preventing them).
